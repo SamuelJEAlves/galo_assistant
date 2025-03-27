@@ -7,7 +7,7 @@
 - **Arquitetura baseada em RAG**: Combina busca de informações em bases de dados específicas com um modelo de linguagem para gerar respostas contextualizadas.
 - **Análise exploratória de dados e visualização**: Inclui técnicas de processamento de linguagem natural e visualização gráfica para compreender e explicar o conjunto de documentos.
 - **Processamento de texto avançado**: Usa bibliotecas como NLTK e PyMuPDF para extrair, tratar e limpar informações relevantes da base de conhecimento.
-- **Incorporadores do Hugging Face**: Implementa modelo de embeddings, otimizado para português-BR do Hugging Face, para vetorizar e criar conexões semânticas nos textos.
+- **Incorporadores do Hugging Face**: Implementa modelo de embeddings, otimizado para português-br do Hugging Face, para vetorizar e captar conexões semânticas nos textos.
 - **Pipeline otimizado**: Construído com LangChain e ChromaDB para oferecer desempenho e escalabilidade.
 
 ## Tecnologias Utilizadas
