@@ -1,6 +1,6 @@
 # Galo Assistant
 
-**Galo Assistant** é um assistente virtual baseado em **RAG (Geração Aumentada por Recuperação)* e **Modelos de Linguagem de Grande Escala (LLM)**, projetado para fornecer respostas precisas e contextualizadas sobre o **Clube Atlético Mineiro**, um dos clubes mais icônicos do futebol brasileiro.
+**Galo Assistant** é um assistente virtual baseado em **RAG (Geração Aumentada por Recuperação)** e **Modelos de Linguagem de Grande Escala (LLM)**, projetado para fornecer respostas precisas e contextualizadas sobre o **Clube Atlético Mineiro**, um dos clubes mais icônicos do futebol brasileiro.
 
 ## Funcionalidades Principais
 
