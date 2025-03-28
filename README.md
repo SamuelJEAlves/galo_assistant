@@ -22,7 +22,29 @@
 
 ## Como Usar
 
+- Você deve ter o Ollama instalado na sua máquina com o modelo de linguagem disponível para uso.
+
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/seu-usuario/galo_assistant.git
    cd galo_assistant
+
+2. **Configure o ambiente virtual e instale as dependências**:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # No Windows: venv\Scripts\activate
+   pip install -r requirements.txt
+
+3. **Execute o assistente**:
+   ```bash
+   python assistant.py
+
+4. **Interaja com o assistente**: Faça perguntas sobre o Galão da Massa e explore interações dinâmicas!
+
+## Exemplos de Uso
+
+- "Quantos títulos o Atlético ganhou no Campeonato Brasileiro?"
+- "Quando foi fundado o Galo?"
+- "Quais são os maiores artilheiros da história do clube?"
+
+## Divirta-se explorando o mundo do Clube Atlético Mineiro com o Galo Assistant! 🐓⚽
